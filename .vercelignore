@@ -1,0 +1,6 @@
+.env*
+**/node_modules
+ui/.next
+.agents
+.claude
+skills-lock.json
